@@ -2,3 +2,5 @@ Attention/Channel_Attention/data/*
 Model/GOPRO_Large/test
 Model/GOPRO_Large/train
 Attention/Channel_Attention/senet_cifar10.pth
+Attention/Spatial_Attention/senet_spatial_cifar10.pth
+Attention/Spatial_Attention/data/*
